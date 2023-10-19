@@ -1,0 +1,19 @@
+.center {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  margin: 25px auto;
+  width: 900px;
+  background-color: orange;
+}
+p {
+  text-align: auto center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+img {
+  border-radius: 10px;
+}
